@@ -1,0 +1,15 @@
+Please set up the Accessibility Launcher from the attached ZIP on my Android TV or Google TV. I want the same appearance, remote navigation, and app order as the saved setup.
+
+Ask me for my TV’s address and guide me through ADB authorization if needed. Use my TV’s address in place of the Sony address in Restore.py. Check that the APK is compatible with my TV, identify my active Android user, and record which launcher currently opens when I press Home. If I already have this launcher installed, back up its settings and app order first.
+
+Verify the archive using SHA256.txt. Install the included APK and restore its saved launcher settings and app order for my active user. The saved setup should look and behave like this:
+
+• Black background, five apps per row, and tight spacing. Unselected tiles stay at their normal size. The selected tile grows over its neighbors and has a visible outline.
+• The selected app’s name appears in the header on every row. Use the saved bold font at size 60. A long name should start scrolling after a short pause so I can read the whole thing.
+• Preserve the saved tile gap of 4 and focus growth of 100. I want to be able to change these myself in the launcher settings.
+• First row, left to right: Plex, YouTube, Crunchyroll, Hulu, Disney+.
+• Second row, left to right: Prime Video, Netflix, Paramount+, Spotify, YouTube Music.
+
+Match the apps by name if my TV uses different Android package or activity names. If an app is missing, skip it, preserve the relative order of the others, and put my remaining apps afterward.
+
+Open the launcher for a preview. Move down to the second row and back up with the D-pad. Check that the selected tile grows, the header follows the selection, and the header stays clear of the tiles. Show me a screenshot of the second row. Ask whether I want it as my default Home screen, and if I do, verify it with the physical Home button and tell me how to switch back. Keep my streaming apps and existing accessibility services enabled.

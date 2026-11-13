@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="focus_outline" value="1" />
+    <long name="settings_revision" value="6" />
+    <string name="theme_signature">absent:absent</string>
+    <int name="tile_gap" value="4" />
+    <int name="header_bold" value="1" />
+    <int name="focus_growth" value="100" />
+    <int name="focus_label" value="60" />
+</map>

@@ -1,0 +1,13 @@
+tvhome-order 1
+dock com.plexapp.android,com.google.android.youtube.tv,com.crunchyroll.crunchyroid,com.hulu.livingroomplus,com.disney.disneyplus
+docked 5
+com.plexapp.android/tv.plex.app.MainActivity
+com.google.android.youtube.tv/com.google.android.apps.youtube.tv.activity.ShellActivity
+com.crunchyroll.crunchyroid/.splash.ui.SplashActivity
+com.hulu.livingroomplus/.WKFactivity
+com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity
+com.amazon.amazonvideo.livingroom/com.amazon.ignition.IgnitionActivity
+com.netflix.ninja/.MainActivity
+com.cbs.ott/com.paramount.android.pplus.features.splash.tv.SplashMediatorActivity
+com.spotify.tv.android/com.spotify.app.androidtv.MainActivity
+com.google.android.youtube.tvmusic/com.google.android.apps.youtube.tvmusic.activity.MainActivity
